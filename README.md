@@ -1,14 +1,14 @@
-# hexo-generator-index-pin-top
+# hexo-generator-index-pin-top-sort-by-updated-time
 
 [![Build Status](https://travis-ci.org/hexojs/hexo-generator-index.svg?branch=master)](https://travis-ci.org/hexojs/hexo-generator-index)  [![NPM version](https://badge.fury.io/js/hexo-generator-index.svg)](http://badge.fury.io/js/hexo-generator-index) [![Coverage Status](https://img.shields.io/coveralls/hexojs/hexo-generator-index.svg)](https://coveralls.io/r/hexojs/hexo-generator-index?branch=master)
 
-Index generator for [Hexo]. Pin top version
+Index generator for Hexo. (pin top version, but posts are sorted by updated time)
 
 ## Installation
 
 ``` bash
 $ npm uninstall hexo-generator-index --save
-$ npm install hexo-generator-index-pin-top --save
+$ npm install hexo-generator-index-pin-top-sort-by-updated-time --save
 ```
 
 ## Feautres

@@ -1,7 +1,7 @@
 {
-  "name": "hexo-generator-index-pin-top",
+  "name": "hexo-generator-index-pin-top-sort-by-updated-time",
   "version": "0.2.2",
-  "description": "Index generator for Hexo.(pin top version)",
+  "description": "Index generator for Hexo. (pin top version, but posts are sorted by updated time)",
   "main": "index",
   "scripts": {
     "eslint": "eslint .",
@@ -15,7 +15,7 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "repository": "netcan/hexo-generator-index-pin-top",
+  "repository": "DavidingPlus/hexo-generator-index-pin-top-sort-by-updated-time",
   "homepage": "http://hexo.io/",
   "keywords": [
     "hexo",
@@ -23,7 +23,7 @@
     "index",
     "home"
   ],
-  "author": "Netcan <netcan1996@gmail.com> (http://netcan666.com)",
+  "author": "DavidingPlus <2065666169@qq.com> (https://davidingplus.github.io)",
   "license": "MIT",
   "devDependencies": {
     "chai": "^3.4.0",
