@@ -1,7 +1,7 @@
 {
-  "name": "hexo-generator-index-pin-top-sort-by-updated-time",
+  "name": "hexo-generator-index-pin-top-plus",
   "version": "0.2.2",
-  "description": "Index generator for Hexo. (pin top version, but posts are sorted by updated time)",
+  "description": "Index generator for Hexo. (pin top version, but normal posts are sorted by updated time, and posts which are sticked to top are sorted in ascending order by number)",
   "main": "index",
   "scripts": {
     "eslint": "eslint .",
@@ -15,7 +15,7 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "repository": "DavidingPlus/hexo-generator-index-pin-top-sort-by-updated-time",
+  "repository": "DavidingPlus/hexo-generator-index-pin-top-plus",
   "homepage": "http://hexo.io/",
   "keywords": [
     "hexo",
