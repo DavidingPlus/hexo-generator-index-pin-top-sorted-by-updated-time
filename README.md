@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/hexojs/hexo-generator-index.svg?branch=master)](https://travis-ci.org/hexojs/hexo-generator-index)  [![NPM version](https://badge.fury.io/js/hexo-generator-index.svg)](http://badge.fury.io/js/hexo-generator-index) [![Coverage Status](https://img.shields.io/coveralls/hexojs/hexo-generator-index.svg)](https://coveralls.io/r/hexojs/hexo-generator-index?branch=master)
 
-Index generator for Hexo. (pin top version, but normal posts are sorted by updated time, and posts which are sticked to top are sorted in ascending order by number)
+Index generator for Hexo. Pin top version, but normal posts are sorted by updated time, and posts which are pinned to top are sorted in ascending order by number.
 
 ## Installation
 
