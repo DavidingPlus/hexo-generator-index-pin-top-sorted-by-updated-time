@@ -1,4 +1,4 @@
-# hexo-generator-index-pin-top-plus
+# hexo-generator-index-pin-top-better
 
 [![Build Status](https://travis-ci.org/hexojs/hexo-generator-index.svg?branch=master)](https://travis-ci.org/hexojs/hexo-generator-index)  [![NPM version](https://badge.fury.io/js/hexo-generator-index.svg)](http://badge.fury.io/js/hexo-generator-index) [![Coverage Status](https://img.shields.io/coveralls/hexojs/hexo-generator-index.svg)](https://coveralls.io/r/hexojs/hexo-generator-index?branch=master)
 
@@ -8,7 +8,7 @@ Index generator for Hexo. Pin top version, but normal posts are sorted by update
 
 ``` bash
 $ npm uninstall hexo-generator-index --save
-$ npm install hexo-generator-index-pin-top-plus --save
+$ npm install hexo-generator-index-pin-top-better --save
 ```
 
 ## Feautres

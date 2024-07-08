@@ -1,5 +1,5 @@
 {
-  "name": "hexo-generator-index-pin-top-plus",
+  "name": "hexo-generator-index-pin-top-better",
   "version": "0.2.2",
   "description": "Index generator for Hexo. Pin top version, but normal posts are sorted by updated time, and posts which are pinned to top are sorted in ascending order by number.",
   "main": "index",
@@ -15,7 +15,7 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "repository": "DavidingPlus/hexo-generator-index-pin-top-plus",
+  "repository": "DavidingPlus/hexo-generator-index-pin-top-better",
   "homepage": "http://hexo.io/",
   "keywords": [
     "hexo",
